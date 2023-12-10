@@ -1,4 +1,4 @@
-# Build a Complete REST API with Spingboot and Mongodb - GrcoeryItem Application
+# Build a Complete REST API with Spingboot and MongoDB - GrcoeryItem Application
 
 A simple GroceryItem REST API built with Spring Data JPA that connects to the Mongodb database to perform the basic database operations such as Create, Read, Update and Delete.
 
